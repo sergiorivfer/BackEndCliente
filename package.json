@@ -5,7 +5,6 @@
   "main": "C:/Projects/backendsergio/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc -w",
     "dev": "nodemon build/index.js",
     "start": "nodemon build/index.js"
   },
